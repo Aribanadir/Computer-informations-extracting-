@@ -1,2 +1,2 @@
 @echo.
-@ipconfig /all >C:\AribaMS\nbms\tec\prmt\ndr\ordres\ipconfigall.txt
+@ipconfig /all >C:\chemin\vers\configadd\ipconfigall.txt
