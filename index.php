@@ -6,7 +6,7 @@ $testStart = exec('configadd\ipconfigall.bat');
 
 $end = "end";
 $search = 'Type de noeud';
-$lines = file('ordres\ipconfigall.txt');
+$lines = file('configadd\ipconfigall.txt');
 $found = false;
 
 foreach($lines as $type_de_noeudf)
