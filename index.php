@@ -21,7 +21,7 @@ if(strpos($type_de_noeudf, $search) !== false)
 	echo $type_de_noeudf . "<br/>" ;
 
 	$strArray = explode(' ', $type_de_noeudf);
-	$type_de_noeud = $strArray[17];
+	$type_de_noeud = $strArray[17];// si votre system n'est pas en francais changez cette partie
 
 	echo $type_de_noeud . "<br/>" ;
 }
