@@ -1,2 +1,2 @@
 @echo.
-@ipconfig /all >C:\chemin\vers\configadd\ipconfigall.txt
+@ipconfig /all >C:\chemin\vers\le\dossier\configadd\ipconfigall.txt
