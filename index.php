@@ -7,7 +7,7 @@ $testStart = exec('configadd\ipconfigall.bat'); // le dossier configadd est le d
 
 
 $end = "end";
-$search = 'Type de noeud';
+$search = 'Type de noeud'; //si votre system n'est pas en francais vous devez modifier cette partie
 $lines = file('configadd\ipconfigall.txt');
 $found = false;
 
