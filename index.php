@@ -28,6 +28,6 @@ if(strpos($type_de_noeudf, $search) !== false)
 }
 if(!$found)
 {
-echo 'Pas de résultat trouvé !';
+echo 'Pas de résultat trouvé ! ';
 }
 ?>
