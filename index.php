@@ -24,6 +24,7 @@ if(strpos($type_de_noeudf, $search) !== false)
 	$type_de_noeud = $strArray[17];// si votre system n'est pas en francais changez cette partie
 
 	echo $type_de_noeud . "<br/>" ;
+	// vous pouvez ajouter plus d'option depuis le meme fichier text
 }
 }
 if(!$found)
