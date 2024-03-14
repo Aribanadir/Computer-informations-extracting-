@@ -1,6 +1,6 @@
  <?php
 
-//vous pouvez crée et ajouter n'importe quel fichier l'ex ordres et l'afficher
+//vous pouvez crée et ajouter n'importe quel fichier l'ex 
 
 //execution de la commande ipconfig en utilisant batch et php ( et txt )
 $testStart = exec('configadd\ipconfigall.bat'); // le dossier configadd est le dossier la ou les fichier bat son stocké vous pouvez modifier l'emplacement des fichier mais n'oublier pas de changais cette ligne
