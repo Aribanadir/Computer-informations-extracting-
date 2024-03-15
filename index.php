@@ -2,7 +2,7 @@
 
 
 //execution de la commande ipconfig en utilisant batch et php ( et txt )
-$testStart = exec('configadd\ipconfigall.bat'); // le dossier configadd est le dossier la ou les fichier bat son stocké vous pouvez modifier l'emplacement des fichier mais n'oublier pas de changais cette ligne
+$testStart = exec('configadd\ipconfigall.bat'); // le dossier cole dossier la ou les fichier bat son stocké vous pouvez modifier l'emplacement des fichier mais n'oublier pas de changais cette ligne
 
 
 $end = "end";
