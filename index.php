@@ -2,7 +2,7 @@
 
 
 //execution de la commande ipconfig en utilisant batch et php ( et txt )
-$testStart = exec('configadd\ipconfigall.bat'); // lefichier 
+$testStart = exec('configadd\ipconfigall.bat');
 
 
 $end = "end";
